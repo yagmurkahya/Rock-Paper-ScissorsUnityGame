@@ -16,7 +16,7 @@ A 2D RockPaperScissors Game made in Unity and written in C#
 <br>
 <h1> Getting Started </h1>
 <br>
-Follow the below instructions to get started with Red Runner source code:
+Follow the below instructions to get started with Rock Paper Scissors source code:
 <br>
 1.Make sure you have all Requirements
 <br>
